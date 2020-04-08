@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ThreadingSample</string>
+    <string name="app_title">Threading</string>
+    <string name="just_do_it_button_name">Leeroy Jenkins</string>
+    <string name="async_task_button_name">AsyncTasks</string>
+    <string name="event_bus_button_name">Event Bus</string>
+    <string name="rx_java_button_name">RxJava</string>
+    <string name="coroutines_button_name">Coroutines</string>
+    <string name="cancel_button_name">Try to cancel</string>
+    <string name="interaction_test_button_name">Is my UI Stuck?</string>
+</resources>
